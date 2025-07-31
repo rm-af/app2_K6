@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
         btnTampil.setOnClickListener {
             val Nama = inputNama.text.toString()
             val Kelas = inputKelas.text.toString()
-            val hasil = "Nama : ${Nama}\n Kelas : ${Kelas}"
+            val hasil = "Nama : ${Nama}\nKelas : ${Kelas}"
             tvTampil.text = hasil
         }
     }
