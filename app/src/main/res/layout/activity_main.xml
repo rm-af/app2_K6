@@ -39,7 +39,7 @@
             android:id="@+id/etNama"
             android:layout_width="match_parent"
             android:layout_height="48dp"
-            android:hint="Masukkan Nama"
+            android:hint="Nama Siswa"
             android:inputType="textPersonName"
             android:layout_marginBottom="12dp"
             android:backgroundTint="#6200EE" />
